@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @issac-shaik
+- 👀 I’m interested in blochain, web3 and Decentralized Finance
+- 🌱 I’m currently learning Solidity
